@@ -47,3 +47,6 @@ Thumbs.db
 # Temporary files
 /tmp/
 *.tmp
+
+# Documentation
+IMPLEMENTATION_SUMMARY.md
